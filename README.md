@@ -4,7 +4,7 @@
 - 💻 I love building responsive, user-friendly, and high-performance web applications.
 - 🛠️ Currently focusing on advanced React patterns and performance optimization.
 - 💬 Ask me about **React, JavaScript, and Tailwind CSS**.
-- 📫 How to reach me: [Aapka Email/LinkedIn Link]
+- 📫 How to reach me: [safi.khan602267@gmail.com]
 
 ---
 
