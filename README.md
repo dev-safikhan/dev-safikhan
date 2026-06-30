@@ -19,5 +19,7 @@
 
 ### 📊 My GitHub Stats
 
-![Safi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-safikhan&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-safikhan&layout=compact&theme=radial)
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-safikhan&show_icons=true&theme=radial&hide_border=true" alt="Safi's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dev-safikhan&layout=compact&theme=radial&hide_border=true" alt="Top Langs" height="150" />
+</p>
