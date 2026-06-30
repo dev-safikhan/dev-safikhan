@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Safi (dev-safikhan)
+### 🚀 Frontend Developer specializing in React.js & Next.js
 
-<!--
-**dev-safikhan/dev-safikhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I love building responsive, user-friendly, and high-performance web applications.
+- 🛠️ Currently focusing on advanced React patterns and performance optimization.
+- 💬 Ask me about **React, JavaScript, and Tailwind CSS**.
+- 📫 How to reach me: [Aapka Email/LinkedIn Link]
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+- **Languages:** JavaScript (ES6+), HTML5, CSS3
+- **Libraries & Frameworks:** React.js, Next.js
+- **Styling:** Tailwind CSS, Bootstrap
+- **Tools & Platforms:** Git, GitHub, VS Code, Vercel/Netlify
+
+---
+
+### 📊 My GitHub Stats
+
+![Safi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-safikhan&show_icons=true&theme=radial)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-safikhan&layout=compact&theme=radial)
